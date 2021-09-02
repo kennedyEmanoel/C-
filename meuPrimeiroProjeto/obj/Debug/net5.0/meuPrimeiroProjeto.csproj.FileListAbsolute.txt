@@ -1,0 +1,16 @@
+C:\Users\kenne\Documents\aulas\C#\vs_C#\VSCode_C-_01\meuPrimeiroProjeto\bin\Debug\net5.0\meuPrimeiroProjeto.exe
+C:\Users\kenne\Documents\aulas\C#\vs_C#\VSCode_C-_01\meuPrimeiroProjeto\bin\Debug\net5.0\meuPrimeiroProjeto.deps.json
+C:\Users\kenne\Documents\aulas\C#\vs_C#\VSCode_C-_01\meuPrimeiroProjeto\bin\Debug\net5.0\meuPrimeiroProjeto.runtimeconfig.json
+C:\Users\kenne\Documents\aulas\C#\vs_C#\VSCode_C-_01\meuPrimeiroProjeto\bin\Debug\net5.0\meuPrimeiroProjeto.runtimeconfig.dev.json
+C:\Users\kenne\Documents\aulas\C#\vs_C#\VSCode_C-_01\meuPrimeiroProjeto\bin\Debug\net5.0\meuPrimeiroProjeto.dll
+C:\Users\kenne\Documents\aulas\C#\vs_C#\VSCode_C-_01\meuPrimeiroProjeto\bin\Debug\net5.0\ref\meuPrimeiroProjeto.dll
+C:\Users\kenne\Documents\aulas\C#\vs_C#\VSCode_C-_01\meuPrimeiroProjeto\bin\Debug\net5.0\meuPrimeiroProjeto.pdb
+C:\Users\kenne\Documents\aulas\C#\vs_C#\VSCode_C-_01\meuPrimeiroProjeto\obj\Debug\net5.0\meuPrimeiroProjeto.csproj.AssemblyReference.cache
+C:\Users\kenne\Documents\aulas\C#\vs_C#\VSCode_C-_01\meuPrimeiroProjeto\obj\Debug\net5.0\meuPrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenne\Documents\aulas\C#\vs_C#\VSCode_C-_01\meuPrimeiroProjeto\obj\Debug\net5.0\meuPrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\kenne\Documents\aulas\C#\vs_C#\VSCode_C-_01\meuPrimeiroProjeto\obj\Debug\net5.0\meuPrimeiroProjeto.AssemblyInfo.cs
+C:\Users\kenne\Documents\aulas\C#\vs_C#\VSCode_C-_01\meuPrimeiroProjeto\obj\Debug\net5.0\meuPrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\kenne\Documents\aulas\C#\vs_C#\VSCode_C-_01\meuPrimeiroProjeto\obj\Debug\net5.0\meuPrimeiroProjeto.dll
+C:\Users\kenne\Documents\aulas\C#\vs_C#\VSCode_C-_01\meuPrimeiroProjeto\obj\Debug\net5.0\ref\meuPrimeiroProjeto.dll
+C:\Users\kenne\Documents\aulas\C#\vs_C#\VSCode_C-_01\meuPrimeiroProjeto\obj\Debug\net5.0\meuPrimeiroProjeto.pdb
+C:\Users\kenne\Documents\aulas\C#\vs_C#\VSCode_C-_01\meuPrimeiroProjeto\obj\Debug\net5.0\meuPrimeiroProjeto.genruntimeconfig.cache
