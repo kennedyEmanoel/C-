@@ -1,3 +1,3 @@
 # C#
 
-Projeto c#
+Projeto C#
